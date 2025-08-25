@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Margherita Pizza",
+    "category": "Pizza",
+    "price": 299,
+    "description": "Classic pizza topped with fresh mozzarella, tomato sauce, and basil."
+  },
+  {
+    "name": "Pepperoni Pizza",
+    "category": "Pizza",
+    "price": 399,
+    "description": "Cheesy pizza with spicy pepperoni slices and tomato sauce."
+  },
+  {
+    "name": "Veggie Delight Pizza",
+    "category": "Pizza",
+    "price": 349,
+    "description": "Loaded with capsicum, onion, tomato, and olives."
+  },
+  {
+    "name": "Pasta Alfredo",
+    "category": "Pasta",
+    "price": 279,
+    "description": "Creamy Alfredo pasta with garlic, parmesan, and white sauce."
+  },
+  {
+    "name": "Pasta Arrabiata",
+    "category": "Pasta",
+    "price": 259,
+    "description": "Spicy pasta with tangy tomato sauce and chili flakes."
+  },
+  {
+    "name": "Pasta Pesto",
+    "category": "Pasta",
+    "price": 299,
+    "description": "Fresh basil pesto sauce with garlic and parmesan."
+  },
+  {
+    "name": "Coke",
+    "category": "Drinks",
+    "price": 79,
+    "description": "Refreshing Coca-Cola served chilled."
+  },
+  {
+    "name": "Lemonade",
+    "category": "Drinks",
+    "price": 69,
+    "description": "Freshly squeezed lemon juice with soda and mint."
+  },
+  {
+    "name": "Sparkling Water",
+    "category": "Drinks",
+    "price": 99,
+    "description": "Carbonated mineral water with a crisp taste."
+  },
+  {
+    "name": "Cheesecake",
+    "category": "Desserts",
+    "price": 199,
+    "description": "Rich and creamy cheesecake with a biscuit base."
+  },
+  {
+    "name": "Chocolate Lava Cake",
+    "category": "Desserts",
+    "price": 249,
+    "description": "Warm chocolate cake with gooey molten center."
+  },
+  {
+    "name": "Fruit Salad",
+    "category": "Desserts",
+    "price": 149,
+    "description": "Fresh seasonal fruits served with honey and cream."
+  }
+]
