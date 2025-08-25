@@ -45,4 +45,9 @@ If you don’t have an ElevenLabs key, the app will fallback to gTTS for text-to
 
 For microphone support, ensure pyaudio is installed correctly (pip install pyaudio).
 
-![Alt Text](images/Screenshot(73).png)
+!<img width="1920" height="1080" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/9c6930e0-c115-4b55-abbc-d23b06ad2758" />
+!<img width="1920" height="1080" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/4ae558e3-00f6-43c8-89c5-b215f28bb02b" />
+!<img width="1920" height="1080" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/9679da76-a2ed-4f8c-9224-2c329bc00e28" />
+
+
+
