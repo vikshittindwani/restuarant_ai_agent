@@ -1,0 +1,9 @@
+streamlit
+pandas
+openpyxl
+speechrecognition
+pyaudio
+together
+elevenlabs
+pydub
+gTTS
